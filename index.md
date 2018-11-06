@@ -39,7 +39,6 @@ Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is inte
   * [Technical Portfolio](https://narcisoa.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/narcisoandrea/)
 
-
 Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.
   * [Technical Portfolio](https://sophia-kim.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
