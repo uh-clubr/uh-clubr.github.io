@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About UH-Clubr](#about-uh-clubr)
-* [About the Members of UH-Clubr] (#about-members)
+* [About the Members of UH-Clubr](#about-members)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
