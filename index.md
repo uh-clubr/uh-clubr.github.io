@@ -207,9 +207,6 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ### Data model unit tests
 
-To run the unit tests on the data model, invoke the script named 'test', which is defined in the package.json file:
-
-
 ### JSDoc
 
 # Development History
