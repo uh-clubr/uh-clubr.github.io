@@ -36,12 +36,20 @@ UH-Clubr also provides a filter page, available to those who can login to the sy
 
 # About Members
 Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.
+[technical portfolio](https://www.linkedin.com/in/narcisoandrea/)
+[Github](https://narcisoa.github.io/)
+
 
 Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.
+[technical portfolio](https://sophia-kim.github.io/)
+[LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
 
 Christopher Nishimura is
 
-Tysen Imai-Toyama is 
+Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptolog. 
+[technical portfolio](https://tysenimaitoyama.github.io/)
+[LinkedIn](https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/)
+
 
 
 # Installation
