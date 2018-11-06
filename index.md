@@ -26,18 +26,22 @@
 
 # About UH-Clubr 
 
-UH-Clubr is a Meteor application providing the directory for the organizations at the University of Hawaii at Manoa. The Club Hub application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. When you come to the site, you are greeted by the following landing page:
+UH-Clubr is a Meteor application providing the directory for the organizations at the University of Hawaii at Manoa. The Club Hub application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. 
 
-Anyone with a UH account can login to UH-Clubr by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
- 
-Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
+Anyone with a UH account can login to UH-Clubr by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password. Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram).
   
-After creating a profile, you will be listed on the public directory page:
+After creating a profile, you will be listed on the public directory page, which then will allow you to take a look at all the independent organizations at UH Manoa. 
 
-UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest:
+UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
 
 # About Members
+Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.
 
+Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.
+
+Christopher Nishimura is
+
+Tysen Imai-Toyama is 
 
 
 # Installation
