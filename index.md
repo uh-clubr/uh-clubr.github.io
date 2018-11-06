@@ -35,18 +35,18 @@ After creating a profile, you will be listed on the public directory page, which
 UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
 
 # About Members
-Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.
+Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.\
 [technical portfolio](https://www.linkedin.com/in/narcisoandrea/)
 [Github](https://narcisoa.github.io/)
 
 
-Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.
+Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.\
 [technical portfolio](https://sophia-kim.github.io/)
 [LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
 
 Christopher Nishimura is
 
-Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptolog. 
+Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptolog.\
 [technical portfolio](https://tysenimaitoyama.github.io/)
 [LinkedIn](https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/)
 
