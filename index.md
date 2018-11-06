@@ -35,24 +35,22 @@ After creating a profile, you will be listed on the public directory page, which
 UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
 
 # About Members
-Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.\
--[Technical Portfolio](https://narcisoa.github.io/)\
--[LinkedIn](https://www.linkedin.com/in/narcisoandrea/)
+Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.
+  *[Technical Portfolio](https://narcisoa.github.io/)
+  *[LinkedIn](https://www.linkedin.com/in/narcisoandrea/)
 
 
-Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.\
--[Technical Portfolio](https://sophia-kim.github.io/)\
--[LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
+Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.
+  *[Technical Portfolio](https://sophia-kim.github.io/)
+  *[LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
 
-Christopher Nishimura is an ICS student at UH Manoa graduating in May 2020. He is interested in web design, software development and video game design.\
--[Technical Portfolio](https://chris-nishimura.github.io/)\
--[LinkedIn](http://www.linkedin.com/in/christopher-nishimura-8a000bb8)
+Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptolog.
+  *[Technical Portfolio](https://tysenimaitoyama.github.io/)
+  *[LinkedIn](https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/)
 
-Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptolog.\
--[Technical Portfolio](https://tysenimaitoyama.github.io/)\
--[LinkedIn](https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/)
-
-
+Christopher Nishimura is an ICS student at UH Manoa graduating in May 2020. He is interested in web design, software development and video game design.
+  *[Technical Portfolio](https://chris-nishimura.github.io/)
+  *[LinkedIn](http://www.linkedin.com/in/christopher-nishimura-8a000bb8)
 
 # Installation
 
