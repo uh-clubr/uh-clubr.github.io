@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About UH-Clubr](#about-uh-clubr)
+* [About the Members of UH-Clubr] (#about-members)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -25,7 +26,7 @@
 
 # About UH-Clubr 
 
-UH-Clubr is a Meteor application providing the directory for the organizations at the University of Hawaii at Manoa. When you come to the site, you are greeted by the following landing page:
+UH-Clubr is a Meteor application providing the directory for the organizations at the University of Hawaii at Manoa. The Club Hub application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. When you come to the site, you are greeted by the following landing page:
 
 Anyone with a UH account can login to UH-Clubr by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
  
@@ -34,6 +35,10 @@ Once authenticated, you can create a profile that provides a biographical statem
 After creating a profile, you will be listed on the public directory page:
 
 UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest:
+
+# About Members
+
+
 
 # Installation
 
