@@ -43,7 +43,7 @@ Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interest
   * [Technical Portfolio](https://sophia-kim.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
 
-Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptolog.
+Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptology.
   * [Technical Portfolio](https://tysenimaitoyama.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/)
 
