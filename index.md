@@ -221,7 +221,7 @@ Milestone 1 was implemented as [UH-Clubr GitHub Milestone M1](https://github.com
 ![](images/m1.png)
 
 
-Milestone 1 consisted of five issues, and progress was managed via the [UH-Clubr GitHub Project M1](https://github.com/uh-clubr/uh-clubr/projects/2):
+Milestone 1 consisted of seven issues, and progress was managed via the [UH-Clubr GitHub Project M1](https://github.com/uh-clubr/uh-clubr/projects/2):
 
 ![](images/projectboard.png)
 
