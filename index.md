@@ -209,12 +209,12 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Mockups for the following six pages were implemented during M1:
 
-<img width="200px" src="images/landing.png"/>
-<img width="200px" src="images/clublist.png"/>
-<img width="200px" src="images/addpage.png"/>
-<img width="200px" src="images/editpage.png"/>
-<img width="200px" src="images/adminpage.png"/>
-<img width="200px" src="images/clubadmin.png"/>
+<img width="400px" src="images/landing.png"/>
+<img width="400px" src="images/clublist.png"/>
+<img width="400px" src="images/addpage.png"/>
+<img width="400px" src="images/editpage.png"/>
+<img width="400px" src="images/adminpage.png"/>
+<img width="400px" src="images/clubadmin.png"/>
 
 Milestone 1 was implemented as [UH-Clubr GitHub Milestone M1](https://github.com/uh-clubr/uh-clubr/milestone/1)::
 
