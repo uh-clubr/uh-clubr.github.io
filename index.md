@@ -1,7 +1,6 @@
 # Table of contents
 
 * [About UH-Clubr](#about-uh-clubr)
-* [About the Members of UH-Clubr](#about-members)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -10,7 +9,6 @@
   * [Data model](#data-model)
   * [CSS](#css)
   * [Routing](#routing)
-  * [Authentication](#authentication)
   * [Authorization](#authorization)
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
@@ -21,35 +19,19 @@
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
   * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
-* [Walkthrough videos](#walkthrough-videos)
-* [JSDocs](/jsdocs)
+* [About the Members of UH-Clubr](#about-members)
 
 # About UH-Clubr 
 
 UH-Clubr is a Meteor application providing the directory for the organizations at the University of Hawaii at Manoa. The UH-Clubr application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. 
 
-Anyone with a UH account can login to UH-Clubr by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password. Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram).
+Anyone can login to UH-Clubr by clicking on the login button. If the user does not have an account, then he or she may sign up to create an account. Once logged in, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram).
   
 After creating a profile, you will be listed on the public directory page, which then will allow you to take a look at all the independent organizations at UH Manoa. 
 
 UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
 
-# About Members
-Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.
-  * [Technical Portfolio](https://narcisoa.github.io/)
-  * [LinkedIn](https://www.linkedin.com/in/narcisoandrea/)
-
-Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.
-  * [Technical Portfolio](https://sophia-kim.github.io/)
-  * [LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
-
-Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptology.
-  * [Technical Portfolio](https://tysenimaitoyama.github.io/)
-  * [LinkedIn](https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/)
-
-Christopher Nishimura is an ICS student at UH Manoa graduating in May 2020. He is interested in web design, software development and video game design.
-  * [Technical Portfolio](https://chris-nishimura.github.io/)
-  * [LinkedIn](http://www.linkedin.com/in/christopher-nishimura-8a000bb8)
+Details regarding the development of the application can be found via the Github organization [UH-Clubr](https://github.com/uh-clubr).
  
 # Installation
 
@@ -182,14 +164,6 @@ Note that the user pages contain a menu fixed to the top of the page, and thus t
 
 ## Routing
 
-## Authentication
-
-For authentication, the application uses the University of Hawaii CAS test server, and follows the approach shown in [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/).
-
-When the application is run, the CAS configuration information must be present in a configuration file such as  [config/settings.development.json](https://github.com/ics-software-engineering/meteor-application-template/blob/master/config/settings.development.json). 
-
-Anyone with a UH account can login and use UH Clubr to view the directory.  A profile document is created for them if none already exists for that username.
-
 ## Authorization
 
 The landing and directory pages are public; anyone can access those pages.
@@ -225,6 +199,19 @@ It's significantly easier to do development with ESLint integrated directly into
 ## Milestone 3: Connect UI to data model
 
 
-# Walkthrough videos
+# About Members
+Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.
+  * [Technical Portfolio](https://narcisoa.github.io/)
+  * [LinkedIn](https://www.linkedin.com/in/narcisoandrea/)
 
-UH Clubr is intended as a model of how an ICS 314 project could be organized and executed. Here are some videos to walk through various aspects of the system and development process:
+Sophia Kim is an ICS student at UH Manoa graduating in May 2021. She is interested in machine learning, cyber security, artifical intelligence and entrepreneurship.
+  * [Technical Portfolio](https://sophia-kim.github.io/)
+  * [LinkedIn](https://www.linkedin.com/in/sophiajhkim/)
+
+Tysen Imai-Toyama is an ICS student at UH Manoa graduating in May 2020. He is interested in Software development, data analysis and cryptology.
+  * [Technical Portfolio](https://tysenimaitoyama.github.io/)
+  * [LinkedIn](https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/)
+
+Christopher Nishimura is an ICS student at UH Manoa graduating in May 2020. He is interested in web design, software development and video game design.
+  * [Technical Portfolio](https://chris-nishimura.github.io/)
+  * [LinkedIn](http://www.linkedin.com/in/christopher-nishimura-8a000bb8)
