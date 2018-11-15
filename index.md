@@ -27,7 +27,7 @@ UH-Clubr is a Meteor application providing the directory for the organizations a
 
 When you come to the site, you are greeted by the following landing page:
 
-![](images/landing.png)
+![](images/landing1.png)
 
 Anyone can login to UH-Clubr by clicking on the login button. If the user does not have an account, then he or she may sign up to create an account:
 
