@@ -25,6 +25,8 @@
 
 UH-Clubr is a Meteor application providing the directory for the organizations at the University of Hawaii at Manoa. The UH-Clubr application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. 
 
+You can find the UH-Clubr website [here.](http://uhclubr.meteorapp.com/#/) 
+
 When you come to the site, you are greeted by the following landing page:
 
 ![](images/landing1.png)
@@ -209,12 +211,22 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Mockups for the following six pages were implemented during M1:
 
-<img width="400px" src="images/landing.png"/>
-<img width="400px" src="images/clublist.png"/>
-<img width="400px" src="images/addpage.png"/>
-<img width="400px" src="images/editpage.png"/>
-<img width="400px" src="images/adminpage.png"/>
-<img width="400px" src="images/clubadmin.png"/>
+The user is greeted by the [landing page.](http://uhclubr.meteorapp.com/#/)
+<img width="800px" src="images/landing.png"/>
+
+The user can access the [club directory](http://uhclubr.meteorapp.com/#/list) after signing in:
+<img width="800px" src="images/clublist.png"/>
+
+If you are logged in as the master admin, you can edit or delete the clubs by the [following link.](http://uhclubr.meteorapp.com/#/admin)
+<img width="800px" src="images/adminpage.png"/>
+<img width="800px" src="images/editpage.png"/>
+
+You may also [add a new club](http://uhclubr.meteorapp.com/#/add) as the master admin:
+<img width="800px" src="images/addpage.png"/>
+
+If you are logged in as the club admin, you can edit the information of the club you are responsible for as shown [here.](http://uhclubr.meteorapp.com/#/clubadminlist)
+<img width="800px" src="images/clubadmin.png"/>
+<img width="800px" src="images/editpage.png"/>
 
 Milestone 1 was implemented as [UH-Clubr GitHub Milestone M1](https://github.com/uh-clubr/uh-clubr/milestone/1)::
 
