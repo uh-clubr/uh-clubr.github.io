@@ -25,9 +25,19 @@
 
 UH-Clubr is a Meteor application providing the directory for the organizations at the University of Hawaii at Manoa. The UH-Clubr application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. 
 
-Anyone can login to UH-Clubr by clicking on the login button. If the user does not have an account, then he or she may sign up to create an account. Once logged in, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram).
+When you come to the site, you are greeted by the following landing page:
+
+![](images/landing.png)
+
+Anyone can login to UH-Clubr by clicking on the login button. If the user does not have an account, then he or she may sign up to create an account:
+
+![](images/signin.png)
+
+Once logged in, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram).
   
-After creating a profile, you will be listed on the public directory page, which then will allow you to take a look at all the independent organizations at UH Manoa. 
+After creating a profile, you will be listed on the public directory page, which then will allow you to take a look at all the independent organizations at UH Manoa:
+
+![](images/clublist.png)
 
 UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
 
@@ -193,6 +203,27 @@ It's significantly easier to do development with ESLint integrated directly into
 # Development History
 
 ## Milestone 1: Mockup development
+This milestone started on November 5, 2018 and ended on November 14, 2018.
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and the UI and the backend functionality weren't entirely implemented.
+
+Mockups for the following six pages were implemented during M1:
+
+<img width="200px" src="images/landing.png"/>
+<img width="200px" src="images/clublist.png"/>
+<img width="200px" src="images/addpage.png"/>
+<img width="200px" src="images/editpage.png"/>
+<img width="200px" src="images/adminpage.png"/>
+<img width="200px" src="images/clubadmin.png"/>
+
+Milestone 1 was implemented as [UH-Clubr GitHub Milestone M1](https://github.com/uh-clubr/uh-clubr/milestone/1)::
+
+![](images/m1.png)
+
+
+Milestone 1 consisted of five issues, and progress was managed via the [UH-Clubr GitHub Project M1](https://github.com/uh-clubr/uh-clubr/projects/2):
+
+![](images/projectboard.png)
 
 ## Milestone 2: Data model development 
 
