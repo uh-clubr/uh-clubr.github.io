@@ -226,6 +226,10 @@ Milestone 1 consisted of seven issues, and progress was managed via the [UH-Club
 ![](images/projectboard.png)
 
 ## Milestone 2: Data model development 
+Milestone 2 will be implemented as [UH-Clubr GitHub Milestone M2](https://github.com/uh-clubr/uh-clubr/milestone/2)::
+
+
+Milestone 2 will consist of eight issues, and progress will be managed via the [UH-Clubr GitHub Project M2](https://github.com/uh-clubr/uh-clubr/projects/3):
 
 ## Milestone 3: Connect UI to data model
 
