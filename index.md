@@ -67,6 +67,10 @@ If the logged-in user is defined as a club admin, then he or she is able to edit
 
 The club admins are given authority via the owner field of each club.
 
+If the logged-in user is neither a club or a master admin, he or she is still able to view clubs that focus on specific interest areas or set up their profile page:
+
+![](images/filter.png)
+
 # Development History
 
 ## Milestone 1: Mockup development
@@ -113,6 +117,12 @@ The layout of the clubs has been updated from the previous milestone:
 <img width="800px" src="images/popup.png"/>
 
 Now the web application provides cleaner and simpler layout of the clubs, while giving the user the ability to expand to obtain more detailed information about the club the user is interested in.
+
+The user is also able to select interest areas so that they can see clubs that focus on those areas:
+
+![](images/filter.png)
+
+(Please note that as of right now, the filter function is not fully implemented.)
 
 Milestone 2 was implemented as [UH-Clubr GitHub Milestone M2](https://github.com/uh-clubr/uh-clubr/milestone/2):
 
