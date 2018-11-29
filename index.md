@@ -26,7 +26,7 @@ Once logged in, you can create a profile that provides a biographical statement 
   
 After creating a profile, you will be listed on the public directory page, which then will allow you to take a look at all the independent organizations at UH Manoa:
 
-![](images/clublist.png)
+![](images/clublist2.png)
 
 UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
 
