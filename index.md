@@ -2,6 +2,7 @@
 
 * [About UH-Clubr](#about-uh-clubr)
 * [Developer Guide](#developer-guide)
+* [User Guide](#user-guide)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
@@ -51,6 +52,20 @@ $ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). You may sign up for an account on UH-Clubr if you don't have one, or sign in if you do. 
+
+# User Guide
+
+If the logged-in user is not defined as an admin, then she/he doesn't have much authority in the UH-Clubr application. However, if the logged-in user is defined as an admin, then he or she may be able to edit, delete or add depending on their level of authority. Currently, the master admin (the admin that is in charge of the web application) is able to add and edit the clubs following required fields defined in the ClubSchema:
+
+![](images/addpage2.png)
+![](images/editpage2.png)
+![](images/masteradmin.png)
+
+If the logged-in user is defined as a club admin, then he or she is able to edit the club that they're responsible for:
+
+![](images/clubadmin2.png)
+
+The club admins are given authority via the owner field of each club.
 
 # Development History
 
