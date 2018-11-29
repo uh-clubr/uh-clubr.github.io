@@ -27,7 +27,7 @@ Once logged in, you can create a profile that provides a biographical statement 
   
 After creating a profile, you will be listed on the public directory page, which then will allow you to take a look at all the independent organizations at UH Manoa:
 
-![](images/clublist2.png)
+![](images/clublist3.png)
 
 UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
 
@@ -113,7 +113,7 @@ Milestone 2 focused on the back-end operations as well as the front-end. The tea
 
 The layout of the clubs has been updated from the previous milestone:
 
-<img width="800px" src="images/clublist2.png"/>
+<img width="800px" src="images/clublist3.png"/>
 <img width="800px" src="images/popup.png"/>
 
 Now the web application provides cleaner and simpler layout of the clubs, while giving the user the ability to expand to obtain more detailed information about the club the user is interested in.
