@@ -88,13 +88,28 @@ Milestone 1 consisted of seven issues, and progress was managed via the [UH-Club
 ![](images/projectboard.png)
 
 ## Milestone 2: Data model development 
-Milestone 2 was implemented as [UH-Clubr GitHub Milestone M2](https://github.com/uh-clubr/uh-clubr/milestone/2)::
+This milestone started on November 15, 2018 and ended on November 28, 2018.
+
+Milestone 2 focused on the back-end operations as well as the front-end. The team took the time to implement the functionalities that were suggested in Milestone 1 and connected them to UI. The team also focused on improving the layout of the clubs that will make the visit to the website a pleasurable experience. 
+
+The layout of the clubs has been updated from the previous milestone:
+
+<img width="800px" src="images/clublist2.png"/>
+<img width="800px" src="images/popup.png"/>
+
+Now the web application provides cleaner and simpler layout of the clubs, while giving the user the ability to expand to obtain more detailed information about the club the user is interested in.
+
+Milestone 2 was implemented as [UH-Clubr GitHub Milestone M2](https://github.com/uh-clubr/uh-clubr/milestone/2):
+
+![](images/m2.png)
 
 
 Milestone 2 consisted of eight issues, and progress will be managed via the [UH-Clubr GitHub Project M2](https://github.com/uh-clubr/uh-clubr/projects/3):
 
+![](images/projectboard2.png)
+
 ## Milestone 3: Connect UI to data model
-Milestone 3 will be implemented as [UH-Clubr GitHub Milestone M3](https://github.com/uh-clubr/uh-clubr/milestone/3)::
+Milestone 3 will be implemented as [UH-Clubr GitHub Milestone M3](https://github.com/uh-clubr/uh-clubr/milestone/3):
 
 
 Milestone 3 will consist of __ issues, and progress will be managed via the [UH-Clubr GitHub Project M3](https://github.com/uh-clubr/uh-clubr/projects/4):
