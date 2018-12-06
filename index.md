@@ -84,17 +84,17 @@ If the logged-in user is neither a club or a master admin, he or she is still ab
 We have asked five of the UH community members to test out the UH-Clubr application and provide some feedbacks.
 Here were some of the inputs that we have received from the community members:
 
-“The website looks clean, but it’s not as user friendly. I didn’t know there was a dropdown to see more information about the club. Maybe have it open when you click on the whole box?”
+> “The website looks clean, but it’s not as user friendly. I didn’t know there was a dropdown to see more information about the club. Maybe have it open when you click on the whole box?”
 
-"Very professional and conveys information clearly.” 
+> "Very professional and conveys information clearly.” 
 
-“Are there more clubs? I was trying to scroll because I knew there must be more…"
+> “Are there more clubs? I was trying to scroll because I knew there must be more…"
 
-"I like the idea of the website and can see it being useful. Overall it looks nice, just wish there were more clubs on it."
+> "I like the idea of the website and can see it being useful. Overall it looks nice, just wish there were more clubs on it."
 
-"I like that the website isn't so serious. It provides the information it needs to provide, but also adds some fun to it by adding the extra questions about the clubs. I wish there were more clubs though."
+> "I like that the website isn't so serious. It provides the information it needs to provide, but also adds some fun to it by adding the extra questions about the clubs. I wish there were more clubs though."
 
-From these feedbacks that we have received, we could see that there is still a room for more improvements to make the application more user friendly and practical. The web application is still a work-in-progress and hence what's displayed currently is a prototype but not a completely finished product. 
+From these feedbacks that we have received, we could see that there is still a room for more improvements to make the application more user friendly and practical. The web application is still a work-in-progress and hence what's displayed currently is a prototype but not a completely finished product. It is understandable that as the testers, the community members wanted to see a finished product that is equipped with a full functionality of a club directory. For future development, we can modify the database to include more (if not all) clubs here at the University of Hawaii at Manoa. The team can also get more inspirations from numerous websites to edit the layout of the web application to be more user friendly.
 
 # Development History
 
