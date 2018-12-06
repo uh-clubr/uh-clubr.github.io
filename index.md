@@ -1,8 +1,9 @@
-# Table of contents
+# UH-Clubr
 
 * [About UH-Clubr](#about-uh-clubr)
 * [Developer Guide](#developer-guide)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
@@ -19,17 +20,23 @@ When you come to the site, you are greeted by the following landing page:
 
 ![](images/landing1.png)
 
-Anyone can login to UH-Clubr by clicking on the login button. If the user does not have an account, then he or she may sign up to create an account:
+It is not necessary that the user signs in or sign up to view the clubs that are listed; the list club page is entirely public. However, if the user hopes to receive emails about new clubs that are added, then he or she may sign up and create an account (email function is not implemented) using the sign-up box on the landing page:
 
 ![](images/signin.png)
 
-Once logged in, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram).
+If the user already has an account with UH-Clubr, he or she may log in:
+
+![](images/login.png)
+
+Once logged in, the user can create a profile that provides a brief description about themselves such as their major, their interest, their email address, etc.:
+
+![](images/addprofile.png)
   
-After creating a profile, you will be listed on the public directory page, which then will allow you to take a look at all the independent organizations at UH Manoa:
+After creating profile, the user will be redirected to the landing page with testimonials from the users who have pleasurable experiences with the application, where he or she may choose to go to their profile to update it, or go to the club list page to take a look at all the independent organizations established at the University of Hawaii at Manoa:
 
-![](images/clublist3.png)
-
-UH-Clubr also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all organizations with a given interest.
+![](images/landing2.png)
+![](images/profile.png)
+![](images/listclub.png)
 
 Details regarding the development of the application can be found via the Github organization [UH-Clubr](https://github.com/uh-clubr).
  
@@ -57,8 +64,8 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 If the logged-in user is not defined as an admin, then she/he doesn't have much authority in the UH-Clubr application. However, if the logged-in user is defined as an admin, then he or she may be able to edit, delete or add depending on their level of authority. Currently, the master admin (the admin that is in charge of the web application) is able to add and edit the clubs following required fields defined in the ClubSchema:
 
-![](images/addpage2.png)
-![](images/editpage2.png)
+![](images/addclub.png)
+![](images/editclub.png)
 ![](images/masteradmin.png)
 
 If the logged-in user is defined as a club admin, then he or she is able to edit the club that they're responsible for:
@@ -67,9 +74,27 @@ If the logged-in user is defined as a club admin, then he or she is able to edit
 
 The club admins are given authority via the owner field of each club.
 
-If the logged-in user is neither a club or a master admin, he or she is still able to view clubs that focus on specific interest areas or set up their profile page:
+If the logged-in user is neither a club or a master admin, he or she is still able to view clubs that focus on specific interest areas or edit their profile page:
 
-![](images/filter.png)
+![](images/filter1.png)
+
+![](images/editprofile.png)
+
+# Community Feedback
+We have asked five of the UH community members to test out the UH-Clubr application and provide some feedbacks.
+Here were some of the inputs that we have received from the community members:
+
+“The website looks clean, but it’s not as user friendly. I didn’t know there was a dropdown to see more information about the club. Maybe have it open when you click on the whole box?”
+
+"Very professional and conveys information clearly.” 
+
+“Are there more clubs? I was trying to scroll because I knew there must be more…"
+
+"I like the idea of the website and can see it being useful. Overall it looks nice, just wish there were more clubs on it."
+
+"I like that the website isn't so serious. It provides the information it needs to provide, but also adds some fun to it by adding the extra questions about the clubs. I wish there were more clubs though."
+
+From these feedbacks that we have received, we could see that there is still a room for more improvements to make the application more user friendly and practical. The web application is still a work-in-progress and hence what's displayed currently is a prototype but not a completely finished product. 
 
 # Development History
 
@@ -122,7 +147,7 @@ The user is also able to select interest areas so that they can see clubs that f
 
 ![](images/filter.png)
 
-(Please note that as of right now, the filter function is not fully implemented.)
+(Please note that at this point of development, the filter function was not fully implemented.)
 
 Milestone 2 was implemented as [UH-Clubr GitHub Milestone M2](https://github.com/uh-clubr/uh-clubr/milestone/2):
 
@@ -134,10 +159,31 @@ Milestone 2 consisted of eight issues, and progress will be managed via the [UH-
 ![](images/projectboard2.png)
 
 ## Milestone 3: Connect UI to data model
-Milestone 3 will be implemented as [UH-Clubr GitHub Milestone M3](https://github.com/uh-clubr/uh-clubr/milestone/3):
+This milestone started on November 29, 2018 and ended on December 5, 2018.
+
+Milestone 3 focused on improving the overall UI of the web application as well as enabling the full functionalities of the application that the members had originally desired. The team divided the tasks into four different categories, where each category focused on furnishing the areas the members have been responsible for since the beginning of the development. 
+
+Now the web application resembles the dating websites that we were inspired by, and allows the admins to add a few interesting facts about themselves to have future Clubrs more engaged:
+
+<img width="800px" src="images/popup.png"/>
+<img width="800px" src="images/popup2.png"/>
+<img width="800px" src="images/popup3.png"/>
+
+The filter function, which was introduced in Milestone 2 but was not fully functional, has been completed in this milestone:
+
+<img width="800px" src="images/filter1.png"/>
+<img width="800px" src="images/filter2.png"/>
+
+Now when the user clicks on the dropdown menu, he or she may choose an option that they are interested in and see all the clubs that are related to their specific area of interest.
+
+Milestone 3 was implemented as [UH-Clubr GitHub Milestone M3](https://github.com/uh-clubr/uh-clubr/milestone/3):
+
+![](images/m3.png)
 
 
-Milestone 3 will consist of __ issues, and progress will be managed via the [UH-Clubr GitHub Project M3](https://github.com/uh-clubr/uh-clubr/projects/4):
+Milestone 3 consisted of 14 issues, and progress was managed via the [UH-Clubr GitHub Project M3](https://github.com/uh-clubr/uh-clubr/projects/4):
+
+![](images/projectboard3.png)
 
 # About Members
 Andrea Narciso is an ICS student at UH Manoa graduating in May 2019. She is interested in product development, project management, data and business analysis.
