@@ -36,7 +36,7 @@ After creating profile, the user will be redirected to the landing page with tes
 
 ![](images/landing2.png)
 ![](images/profile.png)
-![](images/listclub.png)
+![](images/loggedlist2.png)
 
 Details regarding the development of the application can be found via the Github organization [UH-Clubr](https://github.com/uh-clubr).
  
