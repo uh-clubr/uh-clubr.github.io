@@ -76,7 +76,7 @@ The club admins are given authority via the owner field of each club.
 
 If the logged-in user is neither a club or a master admin, he or she is still able to view clubs that focus on specific interest areas or edit their profile page:
 
-![](images/filter1.png)
+![](images/loggedlist.png)
 
 ![](images/editprofile.png)
 
